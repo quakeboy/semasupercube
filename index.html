@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+
+	<title>SemaSuperCube</title>
+
+	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="theme-color" content="#000000">
+
+	
+	<link rel="shortcut icon" type="image/png" href="./favicon.png">
+
+	
+	<script type="text/javascript" src="./SemaSuperCube.js"></script>
+
+	<script>
+		window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, { capture: false, passive: false });
+		if (typeof window.devicePixelRatio != 'undefined' && window.devicePixelRatio > 2) {
+			var meta = document.getElementById ("viewport");
+			meta.setAttribute ('content', 'width=device-width, initial-scale=' + (2 / window.devicePixelRatio) + ', user-scalable=no');
+		}
+	</script>
+
+	<style>
+		html, body {
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+			background: #222222;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+		
+		/* Mobile: scale to fit the visible viewport while preserving aspect ratio.
+		   100svh = "small viewport height" — the guaranteed visible area with all
+		   browser chrome (address bar, nav bar) showing. Using 100vh here causes the
+		   canvas to be taller than the visible body on iOS Safari (vh = screen height,
+		   body height = window.innerHeight), so flexbox centres the oversized canvas
+		   with a negative top offset that hides content near y=0 under the address bar.
+		   svh is supported on Chrome 108+, Safari 15.4+, Firefox 101+; older browsers
+		   fall through to the vh lines above. */
+		html, body { background: #000000; }
+		#content {
+			background: #000000; 
+			/* vh fallback for older browsers */
+			width: min(100vw, calc(100vh * 296 / 640));
+			height: min(100vh, calc(100vw * 640 / 296));
+			/* svh override — always within the visible area */
+			width: min(100vw, calc(100svh * 296 / 640));
+			height: min(100svh, calc(100vw * 640 / 296));
+		}
+		#content canvas {
+			width: 100% !important;
+			height: 100% !important;
+		}
+		
+		@font-face {
+			font-family: 'BigNoodleTitling';
+			src: url('assets/fonts/BigNoodleTitling.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/BigNoodleTitling.woff') format('woff'),
+			url('assets/fonts/BigNoodleTitling.ttf') format('truetype'),
+			url('assets/fonts/BigNoodleTitling.svg#BigNoodleTitling') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'OCR A Extended';
+			src: url('assets/fonts/OCRAExt.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/OCRAExt.woff') format('woff'),
+			url('assets/fonts/OCRAExt.TTF') format('truetype'),
+			url('assets/fonts/OCRAExt.svg#OCR%20A%20Extended') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+	</style>
+
+</head>
+<body>
+	
+	<span style="font-family: assets/fonts/BigNoodleTitling.ttf"> </span>
+	<span style="font-family: assets/fonts/OCRAExt.TTF"> </span>
+	<span style="font-family: fonts/BigNoodleTitling.ttf"> </span>
+	<span style="font-family: fonts/OCRAExt.TTF"> </span>
+
+	<div id="content"></div>
+
+	<script type="text/javascript">
+		lime.embed ("SemaSuperCube", "content", 296, 640);
+	</script>
+
+</body>
+</html>

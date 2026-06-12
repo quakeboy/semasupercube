@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480">
+<rect id="staticbox_1" x="-340.44735107422" y="17.9205078125" width="1397.69470214844" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_2" x="359.706799316406" y="401.3705078125" width="631.686401367188" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_3" x="-271.29320068359397" y="401.3503662109375" width="631.686401367188" height="17.999267578125" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_4" x="83.365380859375" y="152.6705078125" width="275.96923828125" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_5" x="359.765380859375" y="153.6705078125" width="275.96923828125" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_6" x="351.1462463378906" y="134.4055725097655" width="18.0075073242188" height="343.88885498046903" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_7" x="-341.5917694091799" y="469.3003662109375" width="1395.7835388183598" height="17.999267578125" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_8" x="-336.738674926758" y="199.5205078125" width="230.37734985351602" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_9" x="-348.90375366210935" y="15.763452148437494" width="18.0075073242188" height="473.673095703125" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="datacube" x="-313.4" y="447.4512969970703" width="18" height="16.997406005859375" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<rect id="escapehatch" x="1008.5999999999999" y="385.081404876709" width="37" height="83.93719024658203" fill="#444444" stroke="#AAAAAA" stroke-width="1.5"/>
+<rect id="movingbadbox_6_1" x="141.1020141601562" y="377.15203247070315" width="63.9959716796876" height="19.89593505859376" fill="#330000" stroke="#FF4444" stroke-width="1.5"/>
+<rect id="staticbox_10" x="-109.7062255859375" y="352.4205078125" width="376.512451171875" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_11" x="-116.85360107421874" y="198.26299438476553" width="18.0072021484375" height="173.674011230469" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="badstaticbox_1" x="219.20635375976562" y="340.98187255859375" width="99.7872924804688" height="14.0362548828125" fill="#330000" stroke="#FF0000" stroke-width="1.5"/>
+<rect id="staticbox_12" x="-83.38277282714846" y="128.051953125" width="22.965545654296903" height="28.49609375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_13" x="-275.5206329345705" y="114.0705078125" width="229.64126586914102" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_14" x="828.5164611816405" y="200.5205078125" width="229.067077636719" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_15" x="1049.9962463378906" y="14.746432495117006" width="18.0075073242188" height="478.40713500976597" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="movingbadbox_6_2" x="514.0020141601562" y="378.15203247070315" width="63.9959716796876" height="19.89593505859376" fill="#330000" stroke="#FF4444" stroke-width="1.5"/>
+<rect id="staticbox_16" x="451.29307861328107" y="353.4205078125" width="374.813842773438" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_17" x="817.9463989257813" y="197.613781738281" width="18.0072021484375" height="177.372436523438" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="badstaticbox_2" x="400.1063537597656" y="341.98187255859375" width="99.7872924804688" height="14.0362548828125" fill="#330000" stroke="#FF0000" stroke-width="1.5"/>
+<rect id="staticbox_18" x="779.5172271728516" y="128.0137756347656" width="22.965545654296903" height="29.5724487304688" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_19" x="764.9793670654294" y="115.0705078125" width="229.64126586914102" height="17.958984375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="checkpoint" x="352.1" y="74.05" width="16" height="60" fill="#003344" stroke="#0088FF" stroke-width="1.5"/>
+<rect id="star_1" x="-320.4" y="157.05" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_2" x="1011.5999999999999" y="157.05" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_3" x="847.6" y="300" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_4" x="-154.4" y="253" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_5" x="386.6" y="431" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+</svg>

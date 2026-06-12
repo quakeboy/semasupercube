@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480">
+<rect id="datacube" x="347" y="426.00103759765625" width="18" height="16.9979248046875" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<rect id="staticbox_1" x="322.8452453613281" y="240.5343017578125" width="66.3095092773438" height="55.931396484375" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="escapehatch" x="336.5" y="156.53012390136718" width="37" height="83.93975219726562" fill="#444444" stroke="#AAAAAA" stroke-width="1.5"/>
+<rect id="staticbox_2" x="15.113516235351483" y="7.5027160644531" width="678.072967529297" height="25.9945678710938" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_3" x="15.113516235351483" y="452.5027160644531" width="678.072967529297" height="25.9945678710938" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_4" x="683.9845581054688" y="2.7970764160154715" width="26.0308837890625" height="481.30584716796903" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_5" x="-0.01544189453125" y="1.7493896484375" width="26.0308837890625" height="482.501220703125" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="bumper_1" x="127.21038818359375" y="449" width="95.5792236328125" height="5" fill="#1A0033" stroke="#9703EF" stroke-width="1.5"/>
+<rect id="bumper_2" x="365.39520263671875" y="267" width="49.2095947265625" height="5" data-rotation="90" fill="#1A0033" stroke="#9703EF" stroke-width="1.5"/>
+<rect id="mine_1" x="281.91653442382807" y="165.41653442382807" width="28.16693115234388" height="28.16693115234388" fill="#440044" stroke="#CC00CC" stroke-width="1.5"/>
+<rect id="bumper_3" x="488.21038818359375" y="450" width="95.5792236328125" height="5" fill="#1A0033" stroke="#9703EF" stroke-width="1.5"/>
+<rect id="bumper_4" x="488.21038818359375" y="32" width="95.5792236328125" height="5" data-rotation="180" fill="#1A0033" stroke="#9703EF" stroke-width="1.5"/>
+<rect id="bumper_5" x="127.21038818359375" y="32" width="95.5792236328125" height="5" data-rotation="180" fill="#1A0033" stroke="#9703EF" stroke-width="1.5"/>
+<rect id="badstaticbox" x="268.900146484375" y="29.143780517578115" width="172.19970703125" height="9.31243896484376" fill="#330000" stroke="#FF0000" stroke-width="1.5"/>
+<rect id="mine_2" x="401.91693115234375" y="164.41693115234375" width="28.1661376953125" height="28.1661376953125" fill="#440044" stroke="#CC00CC" stroke-width="1.5"/>
+<rect id="bumper_6" x="296.39520263671875" y="268" width="49.2095947265625" height="5" data-rotation="-90" fill="#1A0033" stroke="#9703EF" stroke-width="1.5"/>
+<rect id="movingbadbox_y5_1" x="664.9932861328125" y="70.335205078125" width="15.013427734375" height="30.32958984375" fill="#330000" stroke="#FF4444" stroke-width="1.5"/>
+<rect id="movingbadbox_y5_2" x="29.9932861328125" y="70.335205078125" width="15.013427734375" height="30.32958984375" fill="#330000" stroke="#FF4444" stroke-width="1.5"/>
+<rect id="star_1" x="346.55" y="310.95" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_2" x="28.549999999999997" y="209.95" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_3" x="655.55" y="209.95" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_4" x="281.55" y="61.95" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_5" x="405.55" y="58.95" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+</svg>

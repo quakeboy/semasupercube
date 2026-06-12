@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="720"
+   height="480"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="level15.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.8"
+     inkscape:cx="889.375"
+     inkscape:cy="370.625"
+     inkscape:window-width="1865"
+     inkscape:window-height="1052"
+     inkscape:window-x="55"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     id="datacube"
+     x="368.72726"
+     y="393.40909"
+     width="18"
+     height="17"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_1"
+     x="1181.5311"
+     y="432.91315"
+     width="18.392334"
+     height="283.99185"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_2"
+     x="1346.5311"
+     y="432.91339"
+     width="18.392334"
+     height="283.99139"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="escapehatch"
+     x="1257.2273"
+     y="606.93414"
+     width="37"
+     height="83.949997"
+     fill="#444444"
+     stroke="#aaaaaa"
+     stroke-width="1.5" />
+  <rect
+     id="star_1"
+     x="393.22726"
+     y="299.90909"
+     width="25"
+     height="24"
+     fill="#997700"
+     stroke="#ffee00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_3"
+     x="39.463661"
+     y="102.85228"
+     width="44.427185"
+     height="341.31363"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_4"
+     x="1540.5637"
+     y="102.85228"
+     width="44.427185"
+     height="341.31363"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_5"
+     x="20.093239"
+     y="76.23278"
+     width="1580.5681"
+     height="39.252625"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_6"
+     x="19.814247"
+     y="419.83276"
+     width="1185.426"
+     height="39.252625"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_7"
+     x="1171.6615"
+     y="690.44165"
+     width="204.03168"
+     height="26.434937"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="star_2"
+     x="1110.2273"
+     y="354.90909"
+     width="25"
+     height="24"
+     fill="#997700"
+     stroke="#ffee00"
+     stroke-width="1.5" />
+  <rect
+     id="star_3"
+     x="667.22729"
+     y="125.90909"
+     width="25"
+     height="24"
+     fill="#997700"
+     stroke="#ffee00"
+     stroke-width="1.5" />
+  <rect
+     id="star_4"
+     x="874.22729"
+     y="263.90909"
+     width="25"
+     height="24"
+     fill="#997700"
+     stroke="#ffee00"
+     stroke-width="1.5" />
+  <rect
+     id="star_5"
+     x="1195.2273"
+     y="167.90909"
+     width="25"
+     height="24"
+     fill="#997700"
+     stroke="#ffee00"
+     stroke-width="1.5" />
+  <rect
+     id="movingbadbox_1_1"
+     x="88.706032"
+     y="119.38644"
+     width="116.04248"
+     height="297.04529"
+     fill="#330000"
+     stroke="#ff4444"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_8"
+     x="1342.1296"
+     y="419.83276"
+     width="260.79514"
+     height="39.252625"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="movingbadbox_1_3"
+     x="428.70602"
+     y="119.38644"
+     width="116.04248"
+     height="297.04529"
+     fill="#330000"
+     stroke="#ff4444"
+     stroke-width="1.5" />
+</svg>
