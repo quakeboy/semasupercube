@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480">
+<rect id="datacube" x="-20" y="427.50103759765625" width="18" height="16.9979248046875" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<rect id="escapehatch" x="315.5" y="367.0301239013672" width="37" height="83.93975219726562" fill="#444444" stroke="#AAAAAA" stroke-width="1.5"/>
+<rect id="staticbox_1" x="-34.337078857422" y="449.5027160644531" width="732.574157714844" height="25.9945678710938" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="star_1" x="321.5" y="-2" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="dumbboxbad_1000" x="331.0957763671875" y="-41.507507324219205" width="5.908447265625" height="483.0150146484384" fill="#550000" stroke="#FF6600" stroke-width="1.5"/>
+<rect id="star_2" x="143.55" y="65.95" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="motor_1" x="332" y="198" width="4" height="4" fill="#1A1A1A" stroke="#555555" stroke-width="1.5"/>
+<rect id="staticbox_2" x="-34.405383300780954" y="-74.4972839355469" width="732.9107666015619" height="25.9945678710938" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_3" x="685.9845581054688" y="-76.79857177734397" width="26.0308837890625" height="555.197143554688" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_4" x="-48.01544189453125" y="-76.02230224609397" width="26.0308837890625" height="553.844604492188" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="movingbadbox_6_1" x="619.0020141601562" y="430.7867492675781" width="63.9959716796876" height="16.22650146484376" fill="#330000" stroke="#FF4444" stroke-width="1.5"/>
+<rect id="star_3" x="493.55" y="60.95" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_4" x="443.55" y="196.95" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_5" x="197.55" y="196.95" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="movingbadbox_6_2" x="-18.9979858398438" y="-45.21325073242188" width="63.9959716796876" height="16.22650146484376" fill="#330000" stroke="#FF4444" stroke-width="1.5"/>
+</svg>

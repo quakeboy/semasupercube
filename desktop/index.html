@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+
+	<title>SemaSuperCube</title>
+
+	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="theme-color" content="#000000">
+
+	
+	<link rel="shortcut icon" type="image/png" href="./favicon.png">
+
+	
+	<script type="text/javascript" src="./SemaSuperCube.js"></script>
+
+	<script>
+		window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, { capture: false, passive: false });
+		if (typeof window.devicePixelRatio != 'undefined' && window.devicePixelRatio > 2) {
+			var meta = document.getElementById ("viewport");
+			meta.setAttribute ('content', 'width=device-width, initial-scale=' + (2 / window.devicePixelRatio) + ', user-scalable=no');
+		}
+	</script>
+
+	<style>
+		html, body {
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+			background: #222222;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+		
+		/* Desktop: fixed canvas size, centred on the page */
+		#content { background: #000000; width: 720px; height: 480px; }
+		
+		@font-face {
+			font-family: 'BigNoodleTitling';
+			src: url('assets/fonts/BigNoodleTitling.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/BigNoodleTitling.woff') format('woff'),
+			url('assets/fonts/BigNoodleTitling.ttf') format('truetype'),
+			url('assets/fonts/BigNoodleTitling.svg#BigNoodleTitling') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+		@font-face {
+			font-family: 'OCR A Extended';
+			src: url('assets/fonts/OCRAExt.eot?#iefix') format('embedded-opentype'),
+			url('assets/fonts/OCRAExt.woff') format('woff'),
+			url('assets/fonts/OCRAExt.TTF') format('truetype'),
+			url('assets/fonts/OCRAExt.svg#OCR%20A%20Extended') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
+
+	</style>
+
+</head>
+<body>
+	
+	<span style="font-family: assets/fonts/BigNoodleTitling.ttf"> </span>
+	<span style="font-family: assets/fonts/OCRAExt.TTF"> </span>
+	<span style="font-family: fonts/BigNoodleTitling.ttf"> </span>
+	<span style="font-family: fonts/OCRAExt.TTF"> </span>
+
+	<div id="content"></div>
+
+	<script type="text/javascript">
+		lime.embed ("SemaSuperCube", "content", 720, 480);
+	</script>
+
+</body>
+</html>

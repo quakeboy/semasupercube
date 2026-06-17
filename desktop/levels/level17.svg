@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480">
+<rect id="staticbox_1" x="11.538296508789017" y="465.92371826171876" width="696.023406982422" height="20.7525634765625" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_2" x="12.594479370116971" y="13.523718261718749" width="694.9110412597661" height="20.7525634765625" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="staticbox_3" x="1.0962463378905998" y="6.6586547851559885" width="18.0075073242188" height="487.882690429688" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="datacube" x="36.6" y="446.4512969970703" width="18" height="16.997406005859375" fill="#FFFFFF" stroke="#000000" stroke-width="1.5"/>
+<rect id="escapehatch" x="350.6" y="383.03140487670896" width="37" height="83.93719024658203" fill="#444444" stroke="#AAAAAA" stroke-width="1.5"/>
+<rect id="staticbox_4" x="701.1462463378906" y="5.464035034179517" width="18.0075073242188" height="488.57192993164097" fill="#003300" stroke="#00FF00" stroke-width="1.5"/>
+<rect id="movingbadbox_6" x="623.2520141601562" y="431.0024658203125" width="63.9959716796876" height="31.195068359375" fill="#330000" stroke="#FF4444" stroke-width="1.5"/>
+<rect id="star_1" x="150.6" y="435" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_2" x="576.6" y="435" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_3" x="468.6" y="435" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_4" x="674.6" y="436" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="star_5" x="256.6" y="435" width="25" height="24" fill="#997700" stroke="#FFEE00" stroke-width="1.5"/>
+<rect id="badstaticbox" x="346.97353515625" y="465.00006103515625" width="44.2529296875" height="7.9998779296875" fill="#330000" stroke="#FF0000" stroke-width="1.5"/>
+</svg>
