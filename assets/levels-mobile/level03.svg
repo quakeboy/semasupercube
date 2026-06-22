@@ -21,46 +21,55 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="1.2222222"
-     inkscape:cx="360.40909"
-     inkscape:cy="240.13636"
-     inkscape:window-width="1711"
-     inkscape:window-height="1052"
-     inkscape:window-x="60"
+     inkscape:zoom="1.3916569"
+     inkscape:cx="315.8106"
+     inkscape:cy="229.58245"
+     inkscape:window-width="1680"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1" />
   <rect
-     id="badstaticbox"
-     x="257.92621"
-     y="212.96793"
-     width="44.356689"
-     height="129.90051"
-     fill="#330000"
-     stroke="#ff0000"
-     stroke-width="1.5" />
-  <rect
-     id="staticbox_1"
-     x="37.038006"
-     y="336.83954"
-     width="604.53308"
-     height="19.957275"
+     id="staticbox_2"
+     x="387.32483"
+     y="127.36937"
+     width="97.180496"
+     height="84.098206"
      fill="#003300"
      stroke="#00ff00"
      stroke-width="1.5" />
   <rect
-     id="staticbox_2"
-     x="516.45032"
-     y="38.596546"
+     id="staticbox_2-6"
+     x="502.66956"
+     y="257.05713"
+     width="97.180496"
+     height="91.139091"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_6"
+     x="340.55176"
+     y="264.57028"
      width="20.008392"
-     height="330.44327"
+     height="48.973656"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_2-2"
+     x="162.48779"
+     y="80.038055"
+     width="84.907768"
+     height="91.139091"
      fill="#003300"
      stroke="#00ff00"
      stroke-width="1.5" />
   <rect
      id="datacube"
-     x="47.454544"
-     y="117.26818"
+     x="102.61958"
+     y="359.02985"
      width="18"
      height="17"
      fill="#ffffff"
@@ -68,26 +77,17 @@
      stroke-width="1.5" />
   <rect
      id="escapehatch"
-     x="473.55457"
-     y="251.84319"
+     x="95.846855"
+     y="124.15029"
      width="37"
      height="83.949997"
      fill="#444444"
      stroke="#aaaaaa"
      stroke-width="1.5" />
   <rect
-     id="staticbox_3"
-     x="387.46683"
-     y="372.83954"
-     width="115.47546"
-     height="19.957275"
-     fill="#003300"
-     stroke="#00ff00"
-     stroke-width="1.5" />
-  <rect
      id="star_1"
-     x="465.95456"
-     y="89.818184"
+     x="618.30145"
+     y="234.12526"
      width="25"
      height="24"
      fill="#997700"
@@ -95,8 +95,8 @@
      stroke-width="1.5" />
   <rect
      id="star_2"
-     x="375.65457"
-     y="260.81818"
+     x="207.93776"
+     y="278.08438"
      width="25"
      height="24"
      fill="#997700"
@@ -104,8 +104,8 @@
      stroke-width="1.5" />
   <rect
      id="star_3"
-     x="144.65454"
-     y="260.81818"
+     x="370.48325"
+     y="233.53893"
      width="25"
      height="24"
      fill="#997700"
@@ -113,8 +113,8 @@
      stroke-width="1.5" />
   <rect
      id="star_4"
-     x="47.954544"
-     y="192.81818"
+     x="426.21045"
+     y="100.12529"
      width="25"
      height="24"
      fill="#997700"
@@ -122,38 +122,200 @@
      stroke-width="1.5" />
   <rect
      id="star_5"
-     x="267.60455"
-     y="131.81818"
+     x="191.21049"
+     y="175.81166"
      width="25"
      height="24"
      fill="#997700"
      stroke="#ffee00"
      stroke-width="1.5" />
   <rect
+     id="staticbox_8"
+     x="178.85953"
+     y="311.96622"
+     width="210.38454"
+     height="20.755615"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_10-2"
+     x="76.578674"
+     y="75.693466"
+     width="602.11444"
+     height="19.957275"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
+     id="staticbox_9"
+     x="68.033218"
+     y="75.693474"
+     width="20.008392"
+     height="332.30106"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.50001" />
+  <rect
      id="staticbox_4"
-     x="38.692703"
-     y="25.68955"
-     width="718.02368"
+     x="660.68561"
+     y="94.719528"
+     width="18.007507"
+     height="294.84259"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.50001" />
+  <rect
+     id="staticbox_4-4"
+     x="176.57866"
+     y="214.78439"
+     width="18.007507"
+     height="54.712879"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.50001" />
+  <rect
+     id="staticbox_4-4-0"
+     x="177.48776"
+     y="311.96622"
+     width="18.007507"
+     height="85.803795"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.50002" />
+  <rect
+     id="staticbox_4-4-0-3"
+     x="428.03323"
+     y="219.05713"
+     width="18.007507"
+     height="129.98561"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.50002" />
+  <rect
+     id="staticbox_10"
+     x="68.033211"
+     y="202.23894"
+     width="548.06854"
      height="19.957275"
      fill="#003300"
      stroke="#00ff00"
      stroke-width="1.5" />
   <rect
      id="staticbox_5"
-     x="38.716812"
-     y="371.83954"
-     width="115.47546"
-     height="19.957275"
+     x="-31.966787"
+     y="387.23892"
+     width="710.65991"
+     height="20.755615"
      fill="#003300"
      stroke="#00ff00"
+     stroke-width="1.50002" />
+  <rect
+     id="dumbbox_1000_3"
+     x="115.35241"
+     y="433.45703"
+     width="36.799805"
+     height="36.799805"
+     fill="#004400"
+     stroke="#00cc00"
      stroke-width="1.5" />
   <rect
-     id="staticbox_6"
-     x="23.45035"
-     y="-21.777765"
-     width="20.008392"
-     height="634.79187"
-     fill="#003300"
-     stroke="#00ff00"
+     id="motor_15_3"
+     x="131.75232"
+     y="449.85693"
+     width="4"
+     height="4"
+     fill="#1a1a1a"
+     stroke="#555555"
+     stroke-width="1.5" />
+  <rect
+     id="dumbbox_1000_3-3"
+     x="1.3648394"
+     y="320.73004"
+     width="36.799805"
+     height="36.799805"
+     fill="#004400"
+     stroke="#00cc00"
+     stroke-width="1.5" />
+  <rect
+     id="motor_15_3-9"
+     x="17.764723"
+     y="337.12994"
+     width="4"
+     height="4"
+     fill="#1a1a1a"
+     stroke="#555555"
+     stroke-width="1.5" />
+  <rect
+     id="dumbbox_1000_3-3-7"
+     x="436.31058"
+     y="433.45703"
+     width="36.799805"
+     height="36.799805"
+     fill="#004400"
+     stroke="#00cc00"
+     stroke-width="1.5" />
+  <rect
+     id="motor_15_3-9-2"
+     x="452.71045"
+     y="449.85693"
+     width="4"
+     height="4"
+     fill="#1a1a1a"
+     stroke="#555555"
+     stroke-width="1.5" />
+  <rect
+     id="dumbbox_1000_3-3-7-5"
+     x="699.92151"
+     y="278.08438"
+     width="36.799805"
+     height="36.799805"
+     fill="#004400"
+     stroke="#00cc00"
+     stroke-width="1.5" />
+  <rect
+     id="motor_15_3-9-2-8"
+     x="716.32141"
+     y="294.48428"
+     width="4"
+     height="4"
+     fill="#1a1a1a"
+     stroke="#555555"
+     stroke-width="1.5" />
+  <rect
+     id="dumbbox_1000_3-3-7-5-1"
+     x="539.76044"
+     y="16.650263"
+     width="36.799805"
+     height="36.799805"
+     fill="#004400"
+     stroke="#00cc00"
+     stroke-width="1.5" />
+  <rect
+     id="motor_15_3-9-2-8-3"
+     x="556.16034"
+     y="33.050167"
+     width="4"
+     height="4"
+     fill="#1a1a1a"
+     stroke="#555555"
+     stroke-width="1.5" />
+  <rect
+     id="dumbbox_1000_3-3-7-5-1-0"
+     x="188.30594"
+     y="17.784386"
+     width="36.799805"
+     height="36.799805"
+     fill="#004400"
+     stroke="#00cc00"
+     stroke-width="1.5" />
+  <rect
+     id="motor_15_3-9-2-8-3-4"
+     x="204.7059"
+     y="34.184288"
+     width="4"
+     height="4"
+     fill="#1a1a1a"
+     stroke="#555555"
      stroke-width="1.5" />
 </svg>

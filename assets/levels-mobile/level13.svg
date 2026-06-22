@@ -4,7 +4,7 @@
    height="480"
    version="1.1"
    id="svg1"
-   sodipodi:docname="level23.svg"
+   sodipodi:docname="level13.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,12 +21,12 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="1.2222222"
-     inkscape:cx="360.40909"
-     inkscape:cy="567.40909"
-     inkscape:window-width="1865"
-     inkscape:window-height="1052"
-     inkscape:window-x="55"
+     inkscape:zoom="1.3252892"
+     inkscape:cx="285.59804"
+     inkscape:cy="694.56537"
+     inkscape:window-width="1680"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
@@ -41,8 +41,8 @@
      stroke-width="1.5" />
   <rect
      id="escapehatch"
-     x="340.5"
-     y="936.20679"
+     x="580.5"
+     y="938.35687"
      width="37"
      height="83.949997"
      fill="#444444"
@@ -50,8 +50,8 @@
      stroke-width="1.5" />
   <rect
      id="star_1"
-     x="585.25"
-     y="981.08185"
+     x="370.95715"
+     y="925.60687"
      width="25"
      height="24"
      fill="#997700"
@@ -59,8 +59,8 @@
      stroke-width="1.5" />
   <rect
      id="star_2"
-     x="452.5"
-     y="197.18182"
+     x="454.25"
+     y="196.18182"
      width="25"
      height="24"
      fill="#997700"
@@ -77,8 +77,8 @@
      stroke-width="1.5" />
   <rect
      id="star_4"
-     x="245.5"
-     y="401.18182"
+     x="222.17664"
+     y="400.18182"
      width="25"
      height="24"
      fill="#997700"
@@ -86,8 +86,8 @@
      stroke-width="1.5" />
   <rect
      id="star_5"
-     x="98.250008"
-     y="527.18182"
+     x="109.40908"
+     y="828.13184"
      width="25"
      height="24"
      fill="#997700"
@@ -106,7 +106,7 @@
      id="badstaticbox_1"
      x="89.242111"
      y="188.18182"
-     width="337.41577"
+     width="323.71774"
      height="40"
      fill="#330000"
      stroke="#ff0000"
@@ -114,7 +114,7 @@
   <rect
      id="badstaticbox_2"
      x="88.47348"
-     y="636.13184"
+     y="676.13184"
      width="409.05304"
      height="40"
      fill="#330000"
@@ -133,7 +133,7 @@
      id="badstaticbox_3"
      x="89.045464"
      y="392.18182"
-     width="132.10907"
+     width="78.185249"
      height="40"
      fill="#330000"
      stroke="#ff0000"
@@ -149,9 +149,9 @@
      stroke-width="1.5" />
   <rect
      id="badstaticbox_4"
-     x="499.23114"
+     x="520.5401"
      y="188.18182"
-     width="133.6377"
+     width="112.32874"
      height="40"
      fill="#330000"
      stroke="#ff0000"
@@ -175,10 +175,19 @@
      stroke="#00ff00"
      stroke-width="1.5" />
   <rect
+     id="staticbox_4-3"
+     x="223.67152"
+     y="881.63184"
+     width="400.24384"
+     height="36.218262"
+     fill="#003300"
+     stroke="#00ff00"
+     stroke-width="1.5" />
+  <rect
      id="badstaticbox_6"
      x="223.67152"
-     y="820.13184"
-     width="408.05695"
+     y="840.13184"
+     width="400.24384"
      height="40"
      fill="#330000"
      stroke="#ff0000"
@@ -198,24 +207,6 @@
      y="-39.917213"
      width="697.23071"
      height="62.998047"
-     fill="#003300"
-     stroke="#00ff00"
-     stroke-width="1.5" />
-  <rect
-     id="checkpoint_1"
-     x="458.75"
-     y="288.13181"
-     width="16"
-     height="60"
-     fill="#003344"
-     stroke="#0088ff"
-     stroke-width="1.5" />
-  <rect
-     id="staticbox_7"
-     x="414.45987"
-     y="347.02267"
-     width="104.58023"
-     height="36.218262"
      fill="#003300"
      stroke="#00ff00"
      stroke-width="1.5" />

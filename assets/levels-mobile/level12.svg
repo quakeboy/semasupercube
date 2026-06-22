@@ -4,7 +4,7 @@
    height="480"
    version="1.1"
    id="svg1"
-   sodipodi:docname="level15.svg"
+   sodipodi:docname="level12.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,19 +21,19 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="0.8"
-     inkscape:cx="889.375"
-     inkscape:cy="370.625"
-     inkscape:window-width="1865"
-     inkscape:window-height="1052"
-     inkscape:window-x="55"
+     inkscape:zoom="0.79650734"
+     inkscape:cx="730.06233"
+     inkscape:cy="402.38173"
+     inkscape:window-width="1680"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <rect
      id="datacube"
-     x="368.72726"
-     y="393.40909"
+     x="317.72726"
+     y="386.85428"
      width="18"
      height="17"
      fill="#ffffff"
@@ -59,8 +59,8 @@
      stroke-width="1.5" />
   <rect
      id="escapehatch"
-     x="1257.2273"
-     y="606.93414"
+     x="1299.2273"
+     y="608.93414"
      width="37"
      height="83.949997"
      fill="#444444"
@@ -122,8 +122,8 @@
      stroke-width="1.5" />
   <rect
      id="star_2"
-     x="1110.2273"
-     y="354.90909"
+     x="1210.6658"
+     y="651.65912"
      width="25"
      height="24"
      fill="#997700"
@@ -131,8 +131,8 @@
      stroke-width="1.5" />
   <rect
      id="star_3"
-     x="667.22729"
-     y="125.90909"
+     x="660.94989"
+     y="299.90909"
      width="25"
      height="24"
      fill="#997700"
@@ -140,8 +140,8 @@
      stroke-width="1.5" />
   <rect
      id="star_4"
-     x="874.22729"
-     y="263.90909"
+     x="877.99371"
+     y="299.90909"
      width="25"
      height="24"
      fill="#997700"
@@ -149,8 +149,8 @@
      stroke-width="1.5" />
   <rect
      id="star_5"
-     x="1195.2273"
-     y="167.90909"
+     x="1110.2273"
+     y="299.90909"
      width="25"
      height="24"
      fill="#997700"
@@ -176,7 +176,7 @@
      stroke-width="1.5" />
   <rect
      id="movingbadbox_1_3"
-     x="428.70602"
+     x="448.70602"
      y="119.38644"
      width="116.04248"
      height="297.04529"

@@ -50,11 +50,11 @@
 		#content {
 			background: #000000; 
 			/* vh fallback for older browsers */
-			width: min(100vw, calc(100vh * 296 / 640));
-			height: min(100vh, calc(100vw * 640 / 296));
+			width: min(100vw, calc(100vh * 276 / 575));
+			height: min(100vh, calc(100vw * 575 / 276));
 			/* svh override — always within the visible area */
-			width: min(100vw, calc(100svh * 296 / 640));
-			height: min(100svh, calc(100vw * 640 / 296));
+			width: min(100vw, calc(100svh * 276 / 575));
+			height: min(100svh, calc(100vw * 575 / 276));
 		}
 		#content canvas {
 			width: 100% !important;
@@ -93,7 +93,7 @@
 	<div id="content"></div>
 
 	<script type="text/javascript">
-		lime.embed ("SemaSuperCube", "content", 296, 640);
+		lime.embed ("SemaSuperCube", "content", 276, 575);
 	</script>
 
 </body>

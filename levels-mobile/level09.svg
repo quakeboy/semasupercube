@@ -4,7 +4,7 @@
    height="480"
    version="1.1"
    id="svg1"
-   sodipodi:docname="level12.svg"
+   sodipodi:docname="level09.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,11 +21,11 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="1.2222222"
-     inkscape:cx="360"
-     inkscape:cy="240.13636"
-     inkscape:window-width="1024"
-     inkscape:window-height="1052"
+     inkscape:zoom="0.7102118"
+     inkscape:cx="501.96294"
+     inkscape:cy="340.03941"
+     inkscape:window-width="1568"
+     inkscape:window-height="1022"
      inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -50,8 +50,8 @@
      stroke-width="1.5" />
   <rect
      id="star_1"
-     x="553.04547"
-     y="230.63637"
+     x="547.31824"
+     y="184.81819"
      width="25"
      height="24"
      fill="#997700"
@@ -65,15 +65,6 @@
      height="211.06049"
      fill="#003300"
      stroke="#00ff00"
-     stroke-width="1.5" />
-  <rect
-     id="checkpoint_1"
-     x="557.54547"
-     y="270.68637"
-     width="16"
-     height="60"
-     fill="#003344"
-     stroke="#0088ff"
      stroke-width="1.5" />
   <rect
      id="badstaticbox_1"
@@ -175,15 +166,6 @@
      stroke="#ff0000"
      stroke-width="1.5" />
   <rect
-     id="checkpoint_2"
-     x="995.54547"
-     y="270.63635"
-     width="16"
-     height="60"
-     fill="#003344"
-     stroke="#0088ff"
-     stroke-width="1.5" />
-  <rect
      id="star_2"
      x="339.04544"
      y="133.63637"
@@ -203,8 +185,8 @@
      stroke-width="1.5" />
   <rect
      id="star_4"
-     x="991.04547"
-     y="227.63637"
+     x="925.59094"
+     y="205.54546"
      width="25"
      height="24"
      fill="#997700"
@@ -212,8 +194,8 @@
      stroke-width="1.5" />
   <rect
      id="star_5"
-     x="34.045456"
-     y="297.63635"
+     x="238.59091"
+     y="216.63635"
      width="25"
      height="24"
      fill="#997700"
