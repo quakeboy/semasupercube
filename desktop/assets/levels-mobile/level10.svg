@@ -4,7 +4,7 @@
    height="480"
    version="1.1"
    id="svg1"
-   sodipodi:docname="level07.svg"
+   sodipodi:docname="level10.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,11 +22,11 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:zoom="1.2222222"
-     inkscape:cx="360"
-     inkscape:cy="240.13636"
-     inkscape:window-width="1833"
-     inkscape:window-height="1052"
-     inkscape:window-x="60"
+     inkscape:cx="334.22728"
+     inkscape:cy="217.22728"
+     inkscape:window-width="1680"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1" />
@@ -95,8 +95,8 @@
      stroke-width="1.5" />
   <rect
      id="star_2"
-     x="136.40909"
-     y="278.09091"
+     x="136.67271"
+     y="342.48636"
      width="25"
      height="24"
      fill="#997700"
@@ -104,8 +104,8 @@
      stroke-width="1.5" />
   <rect
      id="star_3"
-     x="308.40909"
-     y="190.09091"
+     x="237.40909"
+     y="247.7814"
      width="25"
      height="24"
      fill="#997700"
@@ -113,8 +113,8 @@
      stroke-width="1.5" />
   <rect
      id="star_4"
-     x="472.40909"
-     y="216.09091"
+     x="368.05908"
+     y="176.00002"
      width="25"
      height="24"
      fill="#997700"
@@ -122,8 +122,8 @@
      stroke-width="1.5" />
   <rect
      id="star_5"
-     x="445.8591"
-     y="-7.959094"
+     x="392.67728"
+     y="-33.818192"
      width="25"
      height="24"
      fill="#997700"

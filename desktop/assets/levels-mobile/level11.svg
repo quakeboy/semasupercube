@@ -4,7 +4,7 @@
    height="480"
    version="1.1"
    id="svg1"
-   sodipodi:docname="level10.svg"
+   sodipodi:docname="level11.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,18 +22,18 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:zoom="1.2222222"
-     inkscape:cx="360"
-     inkscape:cy="240.13636"
-     inkscape:window-width="1024"
-     inkscape:window-height="1052"
+     inkscape:cx="360.4091"
+     inkscape:cy="240.13637"
+     inkscape:window-width="1620"
+     inkscape:window-height="1022"
      inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1" />
   <rect
      id="datacube"
-     x="132.72728"
-     y="392.04544"
+     x="31.027222"
+     y="127.77271"
      width="18"
      height="17"
      fill="#ffffff"
@@ -50,8 +50,8 @@
      stroke-width="1.5" />
   <rect
      id="star_1"
-     x="388.22729"
-     y="75.545456"
+     x="737.86365"
+     y="424.11365"
      width="25"
      height="24"
      fill="#997700"
@@ -59,8 +59,8 @@
      stroke-width="1.5" />
   <rect
      id="star_2"
-     x="389.22729"
-     y="322.54544"
+     x="388.22729"
+     y="316.81818"
      width="25"
      height="24"
      fill="#997700"
@@ -68,8 +68,8 @@
      stroke-width="1.5" />
   <rect
      id="star_3"
-     x="388.22729"
-     y="204.54546"
+     x="27.527222"
+     y="424.11365"
      width="25"
      height="24"
      fill="#997700"
@@ -77,8 +77,8 @@
      stroke-width="1.5" />
   <rect
      id="star_4"
-     x="210.22726"
-     y="326.54544"
+     x="27.527222"
+     y="77.408707"
      width="25"
      height="24"
      fill="#997700"
@@ -95,7 +95,7 @@
      stroke-width="1.5" />
   <rect
      id="badstaticbox_1"
-     x="439.74319"
+     x="519.74316"
      y="192.02003"
      width="43.968201"
      height="285.25085"
@@ -104,7 +104,7 @@
      stroke-width="1.5" />
   <rect
      id="badstaticbox_2"
-     x="318.12119"
+     x="238.12119"
      y="192.14943"
      width="41.212158"
      height="279.99207"
@@ -140,8 +140,8 @@
      stroke-width="1.5" />
   <rect
      id="star_5"
-     x="556.22729"
-     y="326.54544"
+     x="737.86365"
+     y="81.295456"
      width="25"
      height="24"
      fill="#997700"
@@ -149,11 +149,12 @@
      stroke-width="1.5" />
   <rect
      id="movingbadbox_4"
-     x="188.37927"
-     y="72.432205"
+     x="72.197449"
+     y="81.295456"
      width="63.995972"
      height="16.226501"
      fill="#330000"
      stroke="#ff4444"
-     stroke-width="1.5" />
+     stroke-width="1.5"
+     inkscape:label="movingbadbox_2" />
 </svg>
